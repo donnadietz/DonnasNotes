@@ -1,0 +1,6 @@
+I'm looking at CSC281 materials from Alex Godwin as I prepare to teach it in January.
+Students first create GitHub, then get Git.
+After this step, I downloaded and am attempting to use "GitHubDesktopSetup". 
+I do not know how to create files from within GitHubDesktopSetup but I can create a publish
+a repo. I was under the mistaken understanding that I was allowed private repos (for free) but
+I was mistaken. Thus, everything I do is public. I will have to keep that in mind! 
