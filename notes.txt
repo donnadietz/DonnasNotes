@@ -4,3 +4,6 @@ After this step, I downloaded and am attempting to use "GitHubDesktopSetup".
 I do not know how to create files from within GitHubDesktopSetup but I can create a publish
 a repo. I was under the mistaken understanding that I was allowed private repos (for free) but
 I was mistaken. Thus, everything I do is public. I will have to keep that in mind! 
+I can see it through the Git Gui (the first item I downloaded) and when I click things,
+it automatically launches (Notepad, what the system expects me to use to edit this.)
+But this will be no good for editing code.  But it's a resource. Ok.
