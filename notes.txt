@@ -7,3 +7,7 @@ I was mistaken. Thus, everything I do is public. I will have to keep that in min
 I can see it through the Git Gui (the first item I downloaded) and when I click things,
 it automatically launches (Notepad, what the system expects me to use to edit this.)
 But this will be no good for editing code.  But it's a resource. Ok.
+
+This is an online Edit.
+
+
