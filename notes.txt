@@ -8,4 +8,10 @@ I can see it through the Git Gui (the first item I downloaded) and when I click 
 it automatically launches (Notepad, what the system expects me to use to edit this.)
 But this will be no good for editing code.  But it's a resource. Ok.
 
+
 This is an edit from my laptop.
+
+This is an online Edit.
+
+
+
